@@ -1,5 +1,5 @@
 # apnacollege-demo
 
-This is Git Repository.
+Patterns Questions
 <br>
-Author - Omkar (Apna College)
+Author - Omkar Jadhav
