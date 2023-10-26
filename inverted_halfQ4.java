@@ -1,10 +1,10 @@
-//Q 1. Solid rectangle star
+//Q 4. inverted half pyramid star
   //        * * * * *
   //        * * * * 
   //        * * * 
   //        * * 
   //        *
-  
+
 import java.util.*;
 public class inverted_halfQ4 
 {
