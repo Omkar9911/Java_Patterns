@@ -1,3 +1,9 @@
+//Q 2. Border4 rectangle star
+  //        * * * * *
+  //        *       *
+  //        *       *
+  //        * * * * *      
+
 import java.util.*;
 public class border_rect
 {
