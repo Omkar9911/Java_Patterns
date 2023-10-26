@@ -1,3 +1,9 @@
+//Q 5. left pyramid star
+  //                *
+  //              * *
+  //            * * *
+  //          * * * *
+ //         * * * * *
 import java.util.*;
 
 public class q5_left_pyramid
