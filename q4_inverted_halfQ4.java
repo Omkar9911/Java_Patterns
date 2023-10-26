@@ -6,7 +6,7 @@
   //        *
 
 import java.util.*;
-public class inverted_halfQ4 
+public class q4_inverted_halfQ4 
 {
   public static void main(String args[])
   {
