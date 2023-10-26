@@ -6,7 +6,7 @@
   //        * * * * *
   
 import java.util.*;
-public class half_pyramid 
+public class q3_half_pyramid 
 {
   public static void main(String args[])
   {

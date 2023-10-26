@@ -7,7 +7,7 @@
 
   import java.util.*;
 
-  public class solid_rectangle
+  public class q1_solid_rectangle
   {
     public static void main(String args[])
     

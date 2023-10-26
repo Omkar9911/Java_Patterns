@@ -5,7 +5,7 @@
   //        * * * * *      
 
 import java.util.*;
-public class border_rect
+public class q2_border_rect
 {
   public static void main(String args[])
   {
