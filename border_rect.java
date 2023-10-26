@@ -1,4 +1,4 @@
-//Q 2. Border4 rectangle star
+//Q 2. Border rectangle star
   //        * * * * *
   //        *       *
   //        *       *
